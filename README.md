@@ -3,7 +3,7 @@
 
 A simple machine learning image classifier GUI app for beginners. This application can classify 10 different types of monkeys! 🐒
 
-<img src="https://github.com/Shree2604/Gui_10MonkeyClassification/blob/main/logo.png" width=450px>
+<img src="https://github.com/Shree2604/Gui_10MonkeyClassification/blob/main/assets/hi888.jpeg" width=450px>
 
 
 ## 🔧 Requirements
