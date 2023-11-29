@@ -15,7 +15,6 @@ A simple machine learning image classifier GUI app for beginners. This applicati
 - The user provided images were loaded with [Pillow](https://github.com/python-pillow/Pillow)
 - And [Numpy](https://github.com/numpy/numpy) was used to normalize those images
 
-This way, the text within the square brackets becomes clickable and redirects to the corresponding URL. This makes your README file cleaner and easier to read.
 
 # 🛠️ Setup
 
