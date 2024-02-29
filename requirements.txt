@@ -28,7 +28,7 @@ cloudpickle==2.0.0
 colorama==0.4.4
 comm==0.2.1
 constantly==15.1.0
-contourpy==0.5.3
+contourpy==1.0.3
 cookiecutter==1.7.3
 cycler==0.10.0
 dask==2022.2.0
