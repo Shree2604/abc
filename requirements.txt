@@ -14,4 +14,4 @@ taipy-rest==3.0.0
 taipy-templates==3.0.0
 tblib==1.7.0
 torch==1.13.0
-torchvision==0.11.1
+torchvision==0.15.1
