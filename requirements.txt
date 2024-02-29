@@ -7,6 +7,6 @@ taipy-rest==3.0.0
 taipy-templates==3.0.0
 tensorflow==2.13.0
 torch==1.13.0
-torchvision==0.10.1
+torchvision==0.15.1
 Pillow==8.4.0
 numpy==1.21.5
